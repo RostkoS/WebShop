@@ -1,0 +1,113 @@
+﻿{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "crop top",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/tops/croptop.jpeg" } } },
+        "type": "tops"
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "shirt",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/tops/shirt.jpg" } } },
+        "type": "tops"
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "turtle neck",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/tops/turtleneck.jpg" } } },
+        "type": "tops"
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "blouse",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/tops/blouse.jpg" } } },
+        "type": "tops"
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "cargo pants",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/pants/cargopants.jpg" } } },
+        "type": "pants"
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "skinny jeans",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/pants/skinnyjeans.jpg" } } },
+        "type": "pants"
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "sweat pants",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/pants/sweatpants.jpg" } } },
+        "type": "pants"
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "sailor pants",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/pants/sailor pants.jpg" } } },
+        "type": "pants"
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "flower dress",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/dresses/d1.jpg" } } },
+        "type": "dresses"
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "black dress",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/dresses/d2.jpg" } } },
+        "type": "dresses"
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "red dress",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/dresses/d3.jpg" } } },
+        "type": "dresses"
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "white dress",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/dresses/d4.jpg" } } },
+        "type": "dresses"
+      }
+    
+    }
+  ]
+}
